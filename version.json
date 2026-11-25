@@ -1,0 +1,14 @@
+{
+  "versionCode": 11019,
+  "versionName": "1.10.19",
+  "apk": "https://raw.githubusercontent.com/pafrdslmazfop-vinny/roi-buddy-updates/main/ROI-buddy-v1.10.19-Android.apk",
+  "size": "119650",
+  "sha256": "71fa2fe8afd41b631880dead079a166455a28b24d4eea5c379ce0fe201b91458",
+  "notes": [
+    "参数页改回三个独立折叠栏：成本明细 / 费用比例 / 退货率",
+    "首次同步不再三选一，按产品逐个取较新合并",
+    "售后四类占比留空时自动套用出厂预配置",
+    "平台服务费按成交金额、货款到账才扣，退款不产生"
+  ],
+  "publishedAt": "2026-11-25T12:32:00+08:00"
+}
