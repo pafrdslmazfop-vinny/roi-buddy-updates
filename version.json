@@ -1,14 +1,14 @@
 {
-  "versionCode": 11019,
-  "versionName": "1.10.19",
-  "apk": "https://raw.githubusercontent.com/pafrdslmazfop-vinny/roi-buddy-updates/main/ROI-buddy-v1.10.19-Android.apk",
+  "versionCode": 11024,
+  "versionName": "1.10.24",
+  "apk": "https://raw.githubusercontent.com/pafrdslmazfop-vinny/roi-buddy-updates/main/ROI-buddy-v1.10.24-Android.apk",
   "size": "119650",
-  "sha256": "71fa2fe8afd41b631880dead079a166455a28b24d4eea5c379ce0fe201b91458",
+  "sha256": "abe4130a093127d5abc47d2be6468d3eebb3ee80e8a8edb43273dc832e04e361",
   "notes": [
-    "参数页改回三个独立折叠栏：成本明细 / 费用比例 / 退货率",
-    "首次同步不再三选一，按产品逐个取较新合并",
-    "售后四类占比留空时自动套用出厂预配置",
-    "平台服务费按成交金额、货款到账才扣，退款不产生"
+    "新增 24h 净成交口径，三个 ROI 目标互相同步",
+    "退货率新增 24h外退货率 / 24h内，输入框两位小数",
+    "净成交金额统一命名为 1h净成交金额",
+    "修复折算档不落盘、折算按钮点一次无反应"
   ],
-  "publishedAt": "2026-11-25T12:32:00+08:00"
+  "publishedAt": "2026-11-28T09:45:00+08:00"
 }
